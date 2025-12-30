@@ -8,7 +8,8 @@
 
 ## 1. What this repository is
 
-**PLMRS (Phase-Locked Mass Resonance Stabilizer)** is a **conceptual, research-oriented engineering synthesis** for a passive, foundation-embedded seismic resonance control approach.
+PLMRS (Phase-Locked Mass Resonance Stabilizer) is a **conceptual, research-oriented engineering synthesis** for a passive, foundation-embedded seismic resonance control approach.
+
 
 This repo is meant to:
 
@@ -112,9 +113,9 @@ Minimal v1.0 layout:
 
 - `docs/PLMRS_Open_Release_and_Liability_v1.0.md`  
   Full text of the open release, scope, liability, and licensing guidance.
- 
-  - `docs/PLMRS_Engineering_Note_v1.0.md`
-    Non-normative concept note describing the PLMRS idea, components, and modeling directions.
+
+- `docs/PLMRS_Engineering_Note_v1.0.md`  
+  Non-normative concept note describing the PLMRS idea, components, and modeling directions.
 
 - `LICENSE`  
   Apache License, Version 2.0.
@@ -125,7 +126,6 @@ Minimal v1.0 layout:
 - `meta/NOTARIZATION.md`  
   Notes and placeholders for external timestamping / notarization (e.g., OpenTimestamps).
 
-`README.md` is **not** included in the canonical hash surface, so you can adjust formatting, links, and examples over time without breaking integrity proofs for the core release text.
 
 ---
 
