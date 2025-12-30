@@ -18,6 +18,8 @@ This repo is meant to:
 - clearly state **limits, scope, and liability boundaries**,  
 - provide a clean licensing posture for future derivative work.
 
+ ---
+
 It is **not** a construction set, not a stamped design, and not project-specific guidance.
 
 ---
