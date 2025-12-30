@@ -21,6 +21,16 @@ It is **not** a construction set, not a stamped design, and not project-specific
 
 ---
 
+### For engineers / researchers
+
+If you’re here to assess the concept itself, start with:
+
+- `docs/PLMRS_Engineering_Note_v1.0.md` — conceptual overview, components, and modeling directions (non-normative).
+- `docs/PLMRS_Open_Release_and_Liability_v1.0.md` — scope, licensing, and liability framing.
+
+
+---
+
 ## 2. Critical scope declaration
 
 > PLMRS is presented as a conceptual and research-oriented engineering synthesis.  
