@@ -247,7 +247,7 @@ Engineers could start with:
 - Single-degree-of-freedom (SDOF) primary system,
 - augmented by multiple secondary SDOF oscillators coupled at the base.
 
-\Questions to explore:
+Questions to explore:
 
 
 
@@ -372,6 +372,7 @@ If you extend this concept, you are encouraged to:
 
 
 \_End of PLMRS Engineering Concept Note v1.0\_
+
 
 
 
